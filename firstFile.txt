@@ -1,7 +1,7 @@
 1 line updated in git_1
 2 line updated in git_1
-3 line
-4 line
+3 line updated in git_1 folder1
+4 line updated in git_1 folder1
 5 line
 6 line second update in original folder
 7 line
